@@ -8,6 +8,7 @@ public:
     void funcA();
 public:
     int m_a;
+    int m_A;
 };
 void BaseA::funcA(){ cout<<"BaseA"<<endl; }
 
